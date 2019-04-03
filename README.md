@@ -1,5 +1,7 @@
 # mfDCA
-The python version was reimplemented with the matlab code (http://dca.rice.edu/portal/dca/)
+Direct Coupling Analysis (DCA) is a statistical inference framework used to infer direct co-evolutionary couplings among residue pairs in multiple sequence alignments.  (http://dca.rice.edu/portal/dca/)
+
+The  version was reimplemented in python.
 
 Reference：
 ----------------------
