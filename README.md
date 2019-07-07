@@ -5,6 +5,7 @@ The  version was reimplemented in python.
 
 if you are more interested in coevolution methods
 see more information at (https://arxiv.org/abs/1906.02598)
+
 Reference：
 ----------------------
      F Morcos, A Pagnani, B Lunt, A Bertolino, DS Marks, C Sander, 
